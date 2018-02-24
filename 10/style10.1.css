@@ -1,0 +1,15 @@
+#red_square {
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+	margin: 50px;
+}
+
+#green_square {
+	width: 200px;
+	border: 1px solid green;
+	text-align: justify;
+	padding: 30px;
+	margin: 50px;
+}
+

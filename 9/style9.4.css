@@ -1,0 +1,18 @@
+body {
+	background-image: url("9_3.jpg");
+	background-position: right top;
+	background-repeat: repeat-y;
+}
+
+h1 {
+	font: bold 32px serif;
+	width: 500px;
+}
+
+p {
+	width: 500px;
+	font-weight: bold;
+	font: bold 16px serif;
+	text-align: justify;
+}
+
